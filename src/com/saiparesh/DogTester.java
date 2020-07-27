@@ -20,6 +20,7 @@ public class DogTester {
 		
 		System.out.println(husky.count);
 		System.out.println(anotherDog.count);
+		
 	}
 
 }
